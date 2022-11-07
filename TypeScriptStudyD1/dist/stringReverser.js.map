@@ -1,0 +1,1 @@
+{"version":3,"file":"stringReverser.js","sourceRoot":"","sources":["../src/stringReverser.ts"],"names":[],"mappings":";AAAA,SAAS,cAAc,CAAC,GAAW;IAC/B,IAAI,WAAW,GAAW,EAAE,CAAC;IAE7B,KAAK,IAAI,CAAC,IAAI,GAAG,EAAE;QACf,WAAW,GAAG,CAAC,GAAG,WAAW,CAAC;KACjC;IAED,OAAO,WAAW,CAAC;AACvB,CAAC;AAED,OAAO,CAAC,GAAG,CAAC,cAAc,CAAC,SAAS,CAAC,CAAC,CAAC"}
